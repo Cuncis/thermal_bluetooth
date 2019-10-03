@@ -183,7 +183,7 @@ class _MyAppState extends State<MyApp> {
         bluetooth.printLeftRight("              ", "-------------------------",0);
         bluetooth.printLeftRight("TOTAL TAGIHAN  : ", "Rp           779.000  ",0);
         bluetooth.printNewLine();
-        bluetooth.printLeftRight("TERBILANG      : ", "", 0);
+        bluetooth.printLeftRight("TERBILANG      : ", "                      ", 0);
         bluetooth.printLeftRight("TUJUH RATUS TUJUH PULUH SEMBILAN RIBU RUPIAH", "", 0);
         bluetooth.printNewLine();
         bluetooth.printCustom("TOTAL TAGIHAN BELUM MASUK DENDA (JIKA ADA).", 0, 0);
